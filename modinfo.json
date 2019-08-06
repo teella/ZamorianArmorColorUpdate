@@ -1,0 +1,16 @@
+{
+	"name": "Infinity-Gaming Zamorian Thief Armor Color Update",
+	"description": "Makes the Zamorian Thief Armor set much easier to color. This means that the colors will show more vibrantly, and all pieces of the armor are colorable except the lining on the hood.\n\nOriginal Mod ID: 1425428950\nOriginal work done by: Awkward Mongoose\nNew Mod ID: 1793187654\n\nI just updated it for compatibility.\n\nNotes:\n- This modifies some textures and tint masks for this armor set. Any other mod that modifies this may alter the looks.\nTextures altered:\nItems\\armor\\zamorian_M\\textures\\T_A_zamorianMed_boots_D\nItems\\armor\\zamorian_M\\textures\\T_A_zamorianMed_boots_TM\nItems\\armor\\zamorian_M\\textures\\T_A_zamorianMed_bracers_F_D\nItems\\armor\\zamorian_M\\textures\\T_A_zamorianMed_bracers_F_TM\nItems\\armor\\zamorian_M\\textures\\T_A_zamorianMed_chest_F_D\nItems\\armor\\zamorian_M\\textures\\T_A_zamorianMed_chest_F_TM\nItems\\armor\\zamorian_M\\textures\\T_A_zamorianMed_headWraps_D\nItems\\armor\\zamorian_M\\textures\\T_A_zamorianMed_leggings_F_D\nItems\\armor\\zamorian_M\\textures\\T_A_zamorianMed_tasset_F_D\nItems\\armor\\zamorian_M\\textures\\T_A_zamorianMed_tasset_F_TM\n\n- This uses a mod controller to merge EquipmentVariationTable, for updating the dye flags on the zamorian female armor.\n\nI'll setup a github repo for this project and some destructions on how this mod was done, for anyone else who may want to learn.",
+	"changeNote": "Removed material edits",
+	"author": "Teella",
+	"authorUrl": "https://steamcommunity.com/id/teella/screenshots/?appid=440900&sort=newestfirst&browsefilter=myfiles&view=imagewall",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 5,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1793187654",
+	"steamVisibility": 0,
+	"folderName": "ZamorianArmorColorUpdate",
+	"revisionNumber": 139474,
+	"snapshotId": 21313
+}
